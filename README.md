@@ -1,4 +1,6 @@
 ## Hi there 👋
+### My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanivDorGalron&show_icons=true&theme=dark)
 
 <!--
 **YanivDorGalron/YanivDorGalron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
