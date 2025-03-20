@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+![Visitor Count](https://profile-counter.glitch.me/YanivDorGalron/count.svg)
 ### My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanivDorGalron&show_icons=true&theme=dark)
 
