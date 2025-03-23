@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/YanivDorGalron/count.svg)
+![](https://komarev.com/ghpvc/?username=YanivDorGalron)
 ### My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanivDorGalron&show_icons=true&theme=dark)
 
