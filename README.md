@@ -2,11 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=YanivDorGalron)
 
-- 🧑🏽‍🦱 I'm Yaniv Dor Galron
-- 📍 Researcher
-- 🎓 Passionate about Deep Learning, Graphs Neural Networks, and Computer Vision.
-- 🐧 Linux, Python & PyTorch
-- 🏔️ Love travaling, hiking and exploring nature
+I like deep neural nets and I can not lie.
 
 ---
 ### My GitHub Stats
